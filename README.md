@@ -74,7 +74,6 @@ another column to our `shows` table. Use Rake to generate a
 ### Methods
 
 You'll be defining the following methods as **class methods** on the `Show` class:
-
 - `.highest_rating`: This method should return the highest value in the ratings
   column. **Hint**: if there is a `.minimum` Active Record method, might there be a
   `.maximum` method?
